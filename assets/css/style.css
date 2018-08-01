@@ -69,3 +69,26 @@ body {
    
 
 }
+
+#counter {
+    color: gold;
+    font-size: 20px;
+    font-family: 'Orbitron', sans-serif;
+    border-style: dotted;
+    border-width: 4px;
+    border-color: white;
+    width: 150px;
+    padding: 4px;
+}
+
+#wins {
+    color: white;
+    font-size: 15px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#losses {
+    color: white;
+    font-size: 15px;
+    font-family: 'Orbitron', sans-serif;
+}
